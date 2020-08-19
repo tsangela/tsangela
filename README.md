@@ -1,4 +1,8 @@
-### Hi there 👋
+### hi there! 👋🏻
+
+welcome to my humble github page! :seedling:
+
+:computer: [check out my website](https://tsangela.github.io/) | :briefcase: [connect with me](https://www.linkedin.com/in/tsangela/)
 
 <!--
 **tsangela/tsangela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
