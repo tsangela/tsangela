@@ -6,7 +6,7 @@
   <img
     src="https://raw.githubusercontent.com/tsangela/tsangela.github.io/master/src/resources/images/alegna.png"
     alt="me"
-    width="200"
+    width="150"
   />
 </p>
 
