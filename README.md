@@ -19,15 +19,15 @@
     <span role="button" aria-label="Email" title="Email">💌</span>
   </a>
   &nbsp;
-  <a href="https://tsangela.github.io/">
+  <a href="https://tsangela.github.io/" target="_blank">
     <span role="button" aria-label="Website" title="Website">🌐</span>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/tsangela/">
+  <a href="https://www.linkedin.com/in/tsangela/" target="_blank">
     <span role="button" aria-label="LinkedIn" title="LinkedIn">💼</span>
   </a>
   &nbsp;
-  <a href="https://tsangela.github.io/static/media/angela-tsang-resume.24c7809c.pdf">
+  <a href="https://tsangela.github.io/static/media/angela-tsang-resume.24c7809c.pdf" target="_blank">
     <span role="button" aria-label="Resume" title="Resume">📑</span>
   </a>
 </h4>
