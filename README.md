@@ -4,31 +4,36 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/tsangela/tsangela.github.io/master/src/resources/images/alegna.png"
+    src="./resources/me.png"
     alt="me"
     width="150"
   />
 </p>
 
-<p align="center">
-  welcome to my humble github page! :seedling:
-</p>
+<h4 align="center">
+  UBC CS '21 | Previously @ Tableau, AppNeta, Grow Technologies
+</h4>
 
-<p align="center">
-  :computer:&nbsp;&nbsp;<a href="https://tsangela.github.io/" target="_blank">check out my website</a>&nbsp;&nbsp;✧&nbsp;&nbsp;:briefcase:&nbsp;&nbsp;<a href="https://www.linkedin.com/in/tsangela/" target="_blank">connect with me</a>
-</p>
+<h4 align="center">
+  <a href="mailto:angela.tsang@alumni.ubc.ca">
+    <span role="button" aria-label="Email" title="Email">💌</span>
+  </a>
+  &nbsp;
+  <a href="https://tsangela.github.io/">
+    <span role="button" aria-label="Website" title="Website">🌐</span>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/tsangela/">
+    <span role="button" aria-label="LinkedIn" title="LinkedIn">💼</span>
+  </a>
+  &nbsp;
+  <a href="https://tsangela.github.io/static/media/angela-tsang-resume.24c7809c.pdf">
+    <span role="button" aria-label="Resume" title="Resume">📑</span>
+  </a>
+</h4>
 
-<!--
-**tsangela/tsangela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+✨ Pronouns:  she/her
+🏸 Interests: UI/UX, doggos, badminton, dodgeball
+🎉 Fun fact:  was crowned MVP in my first dodgeball team 
+```
