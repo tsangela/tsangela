@@ -10,9 +10,9 @@
   />
 </p>
 
-<h4 align="center">
+<h3 align="center">
   UBC CS '21 | Previously @ Tableau, AppNeta, Grow Technologies
-</h4>
+</h3>
 
 <h4 align="center">
   <a href="mailto:angela.tsang@alumni.ubc.ca">
