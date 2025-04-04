@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="center">
-  UBC CS '21 | Previously @ Tableau, AppNeta, Grow Technologies
+  Tableay @ Salesforce | Previously @ AppNeta, Grow Technologies
 </h3>
 
 <h4 align="center">
@@ -34,6 +34,6 @@
 
 ```
 ✨ Pronouns:  she/her
-🏸 Interests: UI/UX, doggos, badminton, dodgeball
-🎉 Fun fact:  was crowned MVP in my first dodgeball team 
+🏸 Interests: full-stack development, doggos, badminton, badminton
+🎉 Fun fact:  can touch my toes! 
 ```
