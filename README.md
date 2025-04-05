@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="center">
-  Tableay @ Salesforce | Previously @ AppNeta, Grow Technologies
+  Tableau @ Salesforce | Previously @ AppNeta, Grow Technologies
 </h3>
 
 <h4 align="center">
